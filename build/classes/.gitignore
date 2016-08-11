@@ -1,13 +1,10 @@
-/_runner/
-/bean/
 /commands/
 /controller/
 /dao/
 /datasource/
 /enums/
-/i18n/
 /interfaces/
-/log4j2.xml
 /manager/
 /service/
 /tags/
+/test/
